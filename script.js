@@ -22,10 +22,16 @@ let index;
 let loop = true;
 const songsList = [
   {
-    name: " MAKING MY WAY",
+    name: "MAKING MY WAY",
     link: "music/MakingMyWay.mp3",
     artist: "SON TUNG M-TP",
     image: "img/makingmyway.jpg",
+  },
+  {
+    name: "Nắm Đôi Bàn Tay",
+    link: "music/Namdoibantay.mp3",
+    artist: "Kay Tran",
+    image: "img/namdoibantay.jpg",
   },
   {
     name: "SKY TOUR",
@@ -47,7 +53,7 @@ const songsList = [
   },
   {
     name: "Chúng Ta Của Hiện Tại",
-    link: "music/Chungtacuahientai.mp3",
+    link: "music/Chungtacuahientai.mp3",
     artist: "SON TUNG M-TP",
     image: "img/chungtacuahientai.jpg",
   },
@@ -68,6 +74,12 @@ const songsList = [
     link: "music/Noinaycoanh.mp3",
     artist: "SON TUNG M-TP",
     image: "img/noinaycoanh.jpg",
+  },
+  {
+    name: "Skyler",
+    link: "music/Skyler.mp3",
+    artist: "SON TUNG M-TP",
+    image: "img/skyler.jpg",
   },
 ];
 //events object
