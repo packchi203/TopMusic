@@ -5,7 +5,7 @@
 }
 body {
   height: 100vh;
-   background-image: linear-gradient(135deg, #8052ec, #d161ff);
+  background-image: linear-gradient(135deg, #4f4f4f, #bf367d);
 }
 .music-player {
   font-size: 16px;
